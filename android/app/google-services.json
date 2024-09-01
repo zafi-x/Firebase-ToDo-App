@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796568528397",
+    "project_id": "testing1-cd865",
+    "storage_bucket": "testing1-cd865.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796568528397:android:2d643a20caa6005e1ad744",
+        "android_client_info": {
+          "package_name": "com.BroByte.fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ91p-Ny3_WzCUACx3GAbHkOgsFFR9P9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
